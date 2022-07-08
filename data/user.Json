@@ -1,0 +1,18 @@
+{
+    "users":[
+        {"details":{"password":"password",
+                    "username": "user",
+                    "email":"email@inuit.com",
+                    "userID":"1"
+                    },
+         "theme":"water",
+         "profile":{"usericon":"https://picsum.photos/200",
+                    "heading":"this is an about me page",
+                    "blurb":"a blurb about me"},
+        "friends":[],
+        "messages":[],
+        "posts":[{"postID":"userId+post.length++",
+                    "postText":"text text text text text text text "}]
+
+    ]
+}
